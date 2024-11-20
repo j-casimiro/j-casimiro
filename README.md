@@ -68,5 +68,13 @@ I am Jehu, a developer with a keen interest in creating dynamic, user-focused ap
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=j-casimiro&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=j-casimiro&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table>
+  <tr>
+    <td valign="center" valign="top" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=j-casimiro&theme=transparent&hide_border=true" alt="GitHub Streak Stats" />
+    </td>
+    <td valign="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-casimiro&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
