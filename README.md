@@ -1,12 +1,6 @@
 ## 👋 About Me<br>
 
-I am Jehu, a developer with a keen interest in creating dynamic, user-focused applications. I specialize in:<br>
-
-- <strong>Frontend Development:</strong> Crafting interactive and responsive user interfaces using frameworks like React.js and Vue.js.<br>
-- <strong>Backend Development:</strong> Building robust APIs and handling authentication with Node.js, Next.js, and Supabase.<br>
-- <strong>Canvas Libraries:</strong> Experience with Fabric.js for creating and manipulating custom graphics.<br>
-- <strong>Cloud Integration:</strong> Uploading and managing assets in AWS S3.<br>
-- <strong>State Management:</strong> Proficient with Pinia and React Context API for scalable application architecture.
+Hi, I’m Jehu, a passionate software engineer from the Philippines with a strong focus on system development, research, and programming. I enjoy teaching aspiring developers and sharing knowledge about coding and software design. When I’m not coding, you’ll find me reading, biking, or spending time with loved ones. My goal is to create impactful solutions while continuously growing my skills and contributing to meaningful projects. Let's collaborate and build something amazing!
 
 ## 🌐 Socials:
 
