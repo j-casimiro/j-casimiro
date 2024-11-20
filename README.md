@@ -1,4 +1,6 @@
-👋 About Me<br>I am Jehu, a developer with a keen interest in creating dynamic, user-focused applications. I specialize in:<br><br>Frontend Development: Crafting interactive and responsive user interfaces using frameworks like React.js and Vue.js.<br>Backend Development: Building robust APIs and handling authentication with Node.js, Next.js, and Supabase.<br>Canvas Libraries: Experience with Fabric.js for creating and manipulating custom graphics.<br>Cloud Integration: Uploading and managing assets in AWS S3.<br>State Management: Proficient with Pinia and React Context API for scalable application architecture.
+# 👋 About Me<br>
+
+I am Jehu, a developer with a keen interest in creating dynamic, user-focused applications. I specialize in:<br><br>Frontend Development: Crafting interactive and responsive user interfaces using frameworks like React.js and Vue.js.<br>Backend Development: Building robust APIs and handling authentication with Node.js, Next.js, and Supabase.<br>Canvas Libraries: Experience with Fabric.js for creating and manipulating custom graphics.<br>Cloud Integration: Uploading and managing assets in AWS S3.<br>State Management: Proficient with Pinia and React Context API for scalable application architecture.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/j-casimiro/) 
