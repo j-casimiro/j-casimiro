@@ -48,7 +48,6 @@ Hi, I’m Jehu, a passionate software engineer from the Philippines with a stron
     <td>
       <h6>💻 Software and Tools</h6>
       <img src="https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=vscode%20studio%20code&logoColor=white" />
-      <img src="https://img.shields.io/badge/Apache%20Netbeans-1B6AC6?style=plastic&logo=apache%20netbeans%20ide&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-E44C30?style=plastic&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub_Desktop-8034A9?style=plastic&logo=github&logoColor=white" />
