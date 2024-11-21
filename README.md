@@ -19,7 +19,7 @@ Hi, I’m Jehu, a passionate software engineer from the Philippines with a stron
       <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" />
       <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" />
       <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-000000?style=plastic&logo=markdown&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
     </td>
     <td>
       <h6>🧰 Frameworks and Libraries</h6>
