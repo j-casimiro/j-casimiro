@@ -4,7 +4,7 @@ Hi, I’m Jehu, a passionate software engineer from the Philippines with a stron
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/j-casimiro/)
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
 
 ## 💻 Tech Stack:
 
