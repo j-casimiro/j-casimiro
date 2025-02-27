@@ -1,6 +1,6 @@
 ## 👋 About Me<br>
 
-Hi, I’m Jehu, a software engineer from the Philippines with experience in system development, research, and programming. I enjoy teaching and mentoring aspiring developers, focusing on practical approaches to coding and software design. Outside of work, I spend time reading, biking, and connecting with family and friends. My aim is to continuously improve my skills and contribute to meaningful projects that solve real-world problems. Let’s work together to build something impactful!
+I like coding, I have interest in AI/ML, Information Systems, creative programming, canvases, and animations.
 
 ## 🌐 Socials:
 
