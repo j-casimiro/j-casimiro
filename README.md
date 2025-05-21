@@ -62,8 +62,5 @@ I like coding, I have interest in AI/ML, Information Systems, creative programmi
     <td valign="center" valign="top" width="50%">
       <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=j-casimiro&theme=transparent&hide_border=true&border_radius=" alt="GitHub Streak" /></a>
     </td>
-    <td valign="center" valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j-casimiro&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-    </td>
   </tr>
 </table>
