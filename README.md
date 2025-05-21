@@ -15,20 +15,17 @@ I like coding, I have interest in AI/ML, Information Systems, creative programmi
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=plastic&logo=php&logoColor=white" />
-      <img src="https://img.shields.io/badge/Markdown-000000?style=plastic&logo=markdown&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
     </td>
     <td>
       <h6>🧰 Frameworks and Libraries</h6>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&labelColor=555&logoColor=green" />
       <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/Laravel-20232A?style=plastic&logo=laravel&logoColor=red" />
       <img src="https://img.shields.io/badge/Next.js-000?style=plastic&logo=nextdotjs&logoColor=fff" />
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/WordPress-21759b?style=plastic&logo=wordpress&logoColor=white" />
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vuedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=plastic&logo=nuxtdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Bootstrap-%238511FA?style=plastic&logo=bootstrap&logoColor=white" />
@@ -50,7 +47,6 @@ I like coding, I have interest in AI/ML, Information Systems, creative programmi
       <img src="https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=vscode%20studio%20code&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-E44C30?style=plastic&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Desktop-8034A9?style=plastic&logo=github&logoColor=white" />
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
       <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=macos&logoColor=white" />
