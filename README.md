@@ -21,7 +21,7 @@ I like coding, I have interest in AI/ML, Information Systems, creative programmi
     </td>
     <td>
       <h6>🧰 Frameworks and Libraries</h6>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&labelColor=555&logoColor=green" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=green" />
       <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Next.js-000?style=plastic&logo=nextdotjs&logoColor=fff" />
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white" />
