@@ -1,6 +1,6 @@
 ## 👋 About Me<br>
 
-I like coding, I have interest in AI/ML, Information Systems, creative programming, canvases, and animations.
+I like coding, I have interest in AI/ML, Information Systems, Enterprise Systems, and Creative Programming.
 
 ## 🌐 Socials:
 
