@@ -2,10 +2,6 @@
 
 I like coding, I have interest in AI/ML, Information Systems, Enterprise Systems, and Creative Programming.
 
-## 🌐 Socials:
-
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
-
 ## 💻 Tech Stack:
 
 <table>
