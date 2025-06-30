@@ -3,7 +3,6 @@
 I like coding, I have interest in AI/ML, Information Systems, Enterprise Systems, and Creative Programming.
 
 ## 💻 Tech Stack:
-
 <table>
   <tr>
     <td>
@@ -47,16 +46,6 @@ I like coding, I have interest in AI/ML, Information Systems, Enterprise Systems
       <img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black" />
       <img src="https://img.shields.io/badge/macOS-000000?style=plastic&logo=macos&logoColor=white" />
       <img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white" />
-    </td>
-  </tr>
-</table>
-
-## 📊 GitHub Stats:
-
-<table>
-  <tr>
-    <td valign="center" valign="top" width="50%">
-      <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=j-casimiro&theme=transparent&hide_border=true&border_radius=" alt="GitHub Streak" /></a>
     </td>
   </tr>
 </table>
