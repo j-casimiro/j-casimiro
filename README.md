@@ -1,6 +1,6 @@
 ## 👋 About Me<br>
 
-I like coding, I have interest in AI/ML, Information Systems, Enterprise Systems, and Creative Programming.
+Solving problems gives me fulfillment.
 
 ## 💻 Tech Stack:
 <table>
