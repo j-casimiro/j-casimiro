@@ -1,6 +1,6 @@
 ## 👋 About Me<br>
 
-<i> We cannot solve our problems with the same thinking we used when we created them. </i>
+<i> "We cannot solve our problems with the same thinking we used when we created them." </i>
 
 ## 💻 Tech Stack:
 <table>
