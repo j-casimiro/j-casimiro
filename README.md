@@ -22,7 +22,6 @@
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vuedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=plastic&logo=nuxtdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" />
       <img src="https://img.shields.io/badge/Astro-BC52EE?style=plastic&logo=astro&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=green" />
