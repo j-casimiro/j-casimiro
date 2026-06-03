@@ -9,20 +9,20 @@
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
     </td>
     <td>
       <h6>🧰 Frameworks and Libraries</h6>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vuedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=plastic&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/React_Native-20232A?style=plastic&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/Next.js-000?style=plastic&logo=nextdotjs&logoColor=fff" />
       <img src="https://img.shields.io/badge/NestJS-E0234E?style=plastic&logo=nestjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Express.js-000000?style=plastic&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vuedotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=plastic&logo=tailwindcss&logoColor=white" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=plastic&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Astro-BC52EE?style=plastic&logo=astro&logoColor=white" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=FastAPI&logoColor=green" />
       <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-2e2e2e?logo=laravel" />
     </td>
   </tr>
   <tr>
@@ -36,6 +36,8 @@
     </td>
     <td>
       <h6>💻 Software and Tools</h6>
+      <img src="https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude_Code-555?logo=claude" />
       <img src="https://img.shields.io/badge/VSCode-0078D4?style=plastic&logo=vscode%20studio%20code&logoColor=white" />
       <img src="https://img.shields.io/badge/Git-E44C30?style=plastic&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" />
