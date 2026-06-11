@@ -33,6 +33,7 @@
       <img src="https://img.shields.io/badge/Supabase-181818?style=plastic&logo=supabase&logoColor=white" />
       <img src="https://img.shields.io/badge/SQLite-07405E?style=plastic&logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-039BE5?style=plastic&logo=firebase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
     </td>
     <td>
       <h6>💻 Software and Tools</h6>
