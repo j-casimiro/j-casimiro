@@ -21,4 +21,6 @@ const jcas = [
   ["OS",            ["linux", "macos"]]
 ] as const satisfies TechCategory[];
 ```
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fj-casimiro&countColor=%23263759&style=flat)
+<div align="center">
+  <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fj-casimiro"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fj-casimiro&countColor=%23263759&style=flat" /></a>
+</div>
