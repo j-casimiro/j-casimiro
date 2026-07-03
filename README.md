@@ -1,6 +1,6 @@
 "We cannot solve our problems with the same thinking we used when we created them." — Albert Einstein
 
-## Ecosystem
+## Tech Stack
 
 ```typescript
 type TechCategory = [category: string, skills: readonly string[]];
