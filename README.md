@@ -1,4 +1,4 @@
-"We cannot solve our problems with the same thinking we used when we created them." — Albert Einstein
+"The important thing is not to stop questioning." — Albert Einstein
 
 ## Tech Stack
 
