@@ -8,7 +8,7 @@ type TechCategory = [category: string, skills: readonly string[]];
 const jcas = [
   ["Languages",     ["typescript", "javascript", "python", "php"]],
   ["TS Ecosystem",  ["zod", "tRPC", "tsx", "ts-node", "utility types"]],
-  ["Mobile",        ["react native"]],
+  ["Mobile",        ["react native", "Expo"]],
   ["Frameworks",    ["nextjs", "nestjs", "reactjs", "expressjs", "vuejs", "nodejs", "django", "laravel"]],
   ["CSS",           ["bootstrap", "tailwind"]],
   ["Databases",     ["postgresql", "mysql", "supabase", "redis", "sqlite"]],
