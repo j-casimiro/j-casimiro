@@ -1,6 +1,6 @@
 "The important thing is not to stop questioning." — Albert Einstein
 
-## Tech Stack
+## TechStack
 
 ```typescript
 type TechCategory = [category: string, skills: readonly string[]];
