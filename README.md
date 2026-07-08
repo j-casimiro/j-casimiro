@@ -1,4 +1,4 @@
-"The important thing is not to stop questioning." — Albert Einstein
+"Long-term consistency beats short-term intensity."
 
 ## TechStack
 
