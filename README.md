@@ -13,7 +13,7 @@ const jehu_casimiro = [
   ["CSS",           ["bootstrap", "tailwind"]],
   ["Databases",     ["postgresql", "mysql", "supabase", "redis", "sqlite"]],
   ["Auth",          ["jwt", "sso", "firebase", "mfa"]],
-  ["ORM",           ["prisma", "drizzle", "laravel eloquent", "django ORM"]],
+  ["ORM",           ["prisma", "drizzle", "laravel eloquent ORM", "django ORM"]],
   ["Tools",         ["github", "git", "figma", "canva", "bruno", "vscode", "postman"]],
   ["DevOps/Cloud",  ["aws", "render", "vercel", "netlify", "railway", "docker", "kubernetes"]],
   ["OS",            ["linux", "macos"]]
