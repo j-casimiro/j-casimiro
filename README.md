@@ -5,7 +5,7 @@
 ```typescript
 type TechCategory = [category: string, skills: readonly string[]];
 
-const jehu_casimiro = [
+const j_casimiro = [
   ["Languages",     ["typescript", "javascript", "python", "php"]],
   ["TypeScript Ecosystem",  ["zod", "tRPC", "tsx", "ts-node", "utility types"]],
   ["Mobile",        ["react native", "Expo"]],
