@@ -7,7 +7,7 @@ type TechCategory = [category: string, skills: readonly string[]];
 
 const jehu_casimiro = [
   ["Languages",     ["typescript", "javascript", "python", "php"]],
-  ["TS Ecosystem",  ["zod", "tRPC", "tsx", "ts-node", "utility types"]],
+  ["TypeScript Ecosystem",  ["zod", "tRPC", "tsx", "ts-node", "utility types"]],
   ["Mobile",        ["react native", "Expo"]],
   ["Frameworks",    ["nextjs", "nestjs", "reactjs", "expressjs", "vuejs", "nodejs", "django", "laravel"]],
   ["CSS",           ["bootstrap", "tailwind"]],
