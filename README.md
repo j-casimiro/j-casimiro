@@ -1,6 +1,6 @@
 "Long-term consistency beats short-term intensity."
 
-## TechStack
+## Technologies
 
 ```typescript
 type TechCategory = [category: string, skills: readonly string[]];
