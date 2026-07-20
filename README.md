@@ -1,3 +1,4 @@
+```
 {
   "name": "j_casimiro",
   "motto": "Long-term consistency beats short-term intensity.",
@@ -19,3 +20,5 @@
     "environments": ["linux", "macos"]
   }
 }
+
+```
