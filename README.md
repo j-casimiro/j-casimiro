@@ -1,1 +1,1 @@
-nagccode lang
+type type lang
